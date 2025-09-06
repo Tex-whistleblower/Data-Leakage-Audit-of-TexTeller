@@ -1,0 +1,24 @@
+test_name,file,total,overlaps,overlap_rate,CompareWith
+Crohme 2014,HME_captions/crohme_2014_captions.json,986,913,92.6,Texteller
+Crohme 2016,HME_captions/crohme_2016_captions.json,1147,1031,89.89,Texteller
+Crohme 2019,HME_captions/crohme_2019_captions.json,1199,1056,88.07,Texteller
+Crohme Train,HME_captions/crohme_train_captions.json,8834,8039,91.0,Texteller
+Crohme 2023 Validation,HME_captions/crohme2023_val_captions.json,555,531,95.68,Texteller
+Crohme 2023 Test,HME_captions/crohme2023_test_captions.json,2300,2167,94.22,Texteller
+Crohme 2023 Train,HME_captions/crohme2023_train_captions.json,12204,12168,99.71,Texteller
+HME100K Test,HME_captions/hme100k_test_captions.json,24607,24607,100.0,Texteller
+HME100K Train,HME_captions/hme100k_train_captions.json,74502,74490,99.98,Texteller
+Mathwriting Test,HME_captions/mathwriting_test_captions.json,7644,6634,86.79,Texteller
+Mathwriting Valid,HME_captions/mathwriting_valid_captions.json,15670,11744,74.95,Texteller
+Mathwriting Train,HME_captions/mathwriting_train_captions.json,229836,166443,72.42,Texteller
+Mathwriting Synthetic,HME_captions/mathwriting_synthetic_captions.json,395711,228887,57.84,Texteller
+Unimer HWE,HME_captions/unimer_net_hwe_captions.json,6332,6000,94.76,Texteller
+MNE N1,HME_captions/N1_captions.json,1875,1624,86.61,Texteller
+MNE N2,HME_captions/N2_captions.json,304,240,78.95,Texteller
+MNE N3,HME_captions/N3_captions.json,1464,379,25.89,Texteller
+HME100K Test,HME_captions/hme100k_test_captions.json,24607,75,0.3,MathwritingTrain
+HME100K Train,HME_captions/hme100k_train_captions.json,74502,496,0.67,MathwritingTrain
+Crohme 2014,HME_captions/crohme_2014_captions.json,986,34,3.45,MathwritingTrain
+Crohme 2016,HME_captions/crohme_2016_captions.json,1147,18,1.57,MathwritingTrain
+Crohme 2019,HME_captions/crohme_2019_captions.json,1199,13,1.08,MathwritingTrain
+Crohme Train,HME_captions/crohme_train_captions.json,8834,670,7.58,MathwritingTrain
