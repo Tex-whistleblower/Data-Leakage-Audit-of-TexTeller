@@ -1,8 +1,18 @@
 # TexTeller Data-Leakage Audit & PosFormer Re-evaluation
 
+<p>
+  <a href="https://github.com/Tex-whistleblower/Data-Leakage-Audit-of-TexTeller/blob/main/paper.pdf" title="PaPer  PDF">
+    <img src="https://unpkg.com/@tabler/icons@latest/icons/outline/file-text.svg" alt="Paper" height="40">
+  </a>
+  <a href="https://texteller.notion.site/" title="Open Notion Page">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/notion.svg" alt="Notion" height="40">
+  </a>
+</p>
+
 *(Code & paper artifacts for reproducible analysis)*
 
 > **TL;DR** — This repo contains ready-to-run scripts to **quantify train–test leakage** between the *TexTeller* handwritten training corpus and public HMER benchmarks, plus a **standardized PosFormer re-evaluation pipeline** on “nano-banana” style images. Under conservative LaTeX normalization and exact matching, we find **extreme overlaps** (e.g., HME100K *test* **100%**, CROHME‑2023 *test* **94.22%**), consistent with the evidence and tables in the accompanying paper (see **Figure 1** p.1 and **Table 1** p.4).&#x20;
+
 
 ---
 
